@@ -1,0 +1,16 @@
+#container {
+    width: 100%;
+    background-color: #DDD;
+}
+
+#progress__loading {
+    width: 0%;
+    height: 25px;
+    text-align: center;
+    background-color: #23AF65;
+    color: #FFF;
+}
+
+.progress__loading--text {
+    line-height: 25px;
+}
